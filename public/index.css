@@ -26,5 +26,8 @@ img {
   margin-bottom: 2rem;
 }
 
-/* .course img {
-} */
+.card-action.actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
